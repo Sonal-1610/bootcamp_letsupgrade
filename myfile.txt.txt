@@ -1,1 +1,2 @@
 this is my file
+i want to check commit changes in file
